@@ -1,0 +1,44 @@
+body{
+    background-image: url(./images/bg.jpg);
+    font-family: 'DM Serif Display', serif;
+    margin: 10px;
+}
+
+.Pagination{
+    margin-left: 40px;
+}
+
+.got_title { 
+    color: rgba(179, 215, 211, 0.712); 
+    font-family: 'Nosifer', sans-serif;
+}
+
+.container h1{
+    color:rgb(184, 238, 207);
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+
+.container h2{
+    color:rgb(249, 255, 213);
+    font-family: 'DM Serif Display', serif;
+    font-size: 170%;
+    text-align: center;
+}
+
+.container a{
+    color:rgb(212, 251, 255);
+    font-family: 'DM Serif Display', serif;
+}
+
+.section{
+    width: 1500px;
+    height: 300px;
+}
+.box{
+    margin-bottom: 50%;
+}
+.img{
+    text-align: center;
+}
+

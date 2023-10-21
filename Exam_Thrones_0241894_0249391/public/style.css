@@ -1,0 +1,14 @@
+body{
+    background-image: url(./images/bg.jpg);
+    font-family: 'Nosifer', sans-serif;
+}
+
+.Pagination{
+    margin-left: 40px;
+}
+
+.got_title { 
+    color: rgba(179, 215, 211, 0.712); 
+    font-family: 'Nosifer', sans-serif;
+}
+

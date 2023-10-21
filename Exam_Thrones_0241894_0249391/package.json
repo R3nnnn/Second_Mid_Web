@@ -1,0 +1,21 @@
+{
+  "name": "exam_thrones",
+  "version": "1.0.0",
+  "description": "GOT Wiki",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "thrones",
+    "express"
+  ],
+  "author": "Ren&Anton",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
